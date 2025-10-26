@@ -2,7 +2,7 @@
   "name": "playwright-timetable",
   "version": "1.0.0",
   "description": "Express + Playwright server for timetable scraping",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node index.js"
   },
