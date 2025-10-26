@@ -1,0 +1,64 @@
+
+=== 2025-10-19T18:05:28.468Z ===
+REQ: POST http://odjazdy.zdmikp.bydgoszcz.pl/panels/0/
+Status: 200
+CT:text/plain; charset=utf-8
+BODY:
+1|#||4|53|updatePanel|ctl00_ctl00_ContentPlaceHolderContenido_UpdatePanelTime|
+                        20:05
+                    |821|updatePanel|ctl00_ctl00_ContentPlaceHolderContenido_UpdatePanel1|
+                        
+            
+                    <table class="tablePanel" style="width: 100%;">
+                        <thead>
+                            <tr>
+                                <th scope="col" style="width: 130px;">
+                                    Linia
+                                </th>
+                                <th scope="col">
+                                    Kierunek
+                                </th>
+                                <th scope="col" style="width: 100px;">
+                                    Odjazd
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                
+                    </tbody> </table>
+                
+
+                    |0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||0|hiddenField|__LASTFOCUS||1308|hiddenField|__VIEWSTATE|/wEPDwUJMTc1ODkzNzcxD2QWAmYPZBYCZg9kFgQCAQ9kFgICDw8WAh4EaHJlZgU/fi9jc3MvY3VzdG9tU3R5bGUuYXNweD90bXA9MzIzZjJiYTAtMzMzNi00ZWMwLWI2MjYtMDUwZWQ1MDJjYTMzZAIDD2QWCAIGDxAPFgIeB1Zpc2libGVoZGQWAGQCCw8QDxYCHwFoZGQWAGQCDQ9kFgQCAw8QZBAVARBXeWJpZXJ6IHVsdWJpb25lFQEQV3liaWVyeiB1bHViaW9uZRQrAwFnFgFmZAIFDxYCHgRUZXh0BQEwZAIOD2QWCgIBDxYCHwJlZAIDD2QWAmYPZBYCAgEPFgIfAgUFMjA6MDVkAgUPFgQeCEludGVydmFsArDqAR4HRW5hYmxlZGdkAgcPZBYCZg9kFgICAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnRmZAIdDxYCHwIFqAE8aW5wdXQgaWQ9J2J0bkZ1bGxTY3JlZW4nIHR5cGU9J2J1dHRvbicgdmFsdWU9J1BlxYJueSBFa3JhbicgY2xhc3M9J2JpZy1idXR0b24nIG9uY2xpY2s9ImphdmFzY3JpcHQ6d2luZG93Lm9wZW4oJ2Z1bGwuYXNweD9zdG9wPScpO2phdmFzY3JpcHQ6d2luZG93Lmhpc3RvcnkuYmFjaygpOyIgLz5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYPBRBjdGwwMCRjdGwwMCRpYkYxBRBjdGwwMCRjdGwwMCRpYkYyBRBjdGwwMCRjdGwwMCRpYkYzBRBjdGwwMCRjdGwwMCRpYkY0BRZjdGwwMCRjdGwwMCRpYkVzcXVlb
+
+
+=== 2025-10-19T18:05:28.651Z ===
+REQ: POST http://odjazdy.zdmikp.bydgoszcz.pl/panels/0/
+Status: 200
+CT:text/plain; charset=utf-8
+BODY:
+1|#||4|53|updatePanel|ctl00_ctl00_ContentPlaceHolderContenido_UpdatePanelTime|
+                        20:05
+                    |821|updatePanel|ctl00_ctl00_ContentPlaceHolderContenido_UpdatePanel1|
+                        
+            
+                    <table class="tablePanel" style="width: 100%;">
+                        <thead>
+                            <tr>
+                                <th scope="col" style="width: 130px;">
+                                    Linia
+                                </th>
+                                <th scope="col">
+                                    Kierunek
+                                </th>
+                                <th scope="col" style="width: 100px;">
+                                    Odjazd
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                
+                    </tbody> </table>
+                
+
+                    |0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||0|hiddenField|__LASTFOCUS||1308|hiddenField|__VIEWSTATE|/wEPDwUJMTc1ODkzNzcxD2QWAmYPZBYCZg9kFgQCAQ9kFgICDw8WAh4EaHJlZgU/fi9jc3MvY3VzdG9tU3R5bGUuYXNweD90bXA9YmMxYmIzZWYtNDZiYy00NjEzLWI2MWUtOGYwM2Y2N2U2YmM3ZAIDD2QWCAIGDxAPFgIeB1Zpc2libGVoZGQWAGQCCw8QDxYCHwFoZGQWAGQCDQ9kFgQCAw8QZBAVARBXeWJpZXJ6IHVsdWJpb25lFQEQV3liaWVyeiB1bHViaW9uZRQrAwFnFgFmZAIFDxYCHgRUZXh0BQEwZAIOD2QWCgIBDxYCHwJlZAIDD2QWAmYPZBYCAgEPFgIfAgUFMjA6MDVkAgUPFgQeCEludGVydmFsArDqAR4HRW5hYmxlZGdkAgcPZBYCZg9kFgICAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnRmZAIdDxYCHwIFqAE8aW5wdXQgaWQ9J2J0bkZ1bGxTY3JlZW4nIHR5cGU9J2J1dHRvbicgdmFsdWU9J1BlxYJueSBFa3JhbicgY2xhc3M9J2JpZy1idXR0b24nIG9uY2xpY2s9ImphdmFzY3JpcHQ6d2luZG93Lm9wZW4oJ2Z1bGwuYXNweD9zdG9wPScpO2phdmFzY3JpcHQ6d2luZG93Lmhpc3RvcnkuYmFjaygpOyIgLz5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYPBRBjdGwwMCRjdGwwMCRpYkYxBRBjdGwwMCRjdGwwMCRpYkYyBRBjdGwwMCRjdGwwMCRpYkYzBRBjdGwwMCRjdGwwMCRpYkY0BRZjdGwwMCRjdGwwMCRpYkVzcXVlb
+
